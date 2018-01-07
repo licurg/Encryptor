@@ -1,0 +1,892 @@
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Resources.ResXDataNode: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.AccessibleEvents: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.AccessibleNavigation: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.AccessibleRole: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.AccessibleSelection: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.AccessibleStates: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.AlphaSortedEnumConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.AmbientProperties: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.AnchorStyles: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Appearance: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Application: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Layout.IArrangedElement: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Layout.ArrangedElementCollection: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ArrowDirection: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ArrangeDirection: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ArrangeStartingPosition: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.AutoCompleteMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.AutoCompleteSource: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.AutoValidate: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.AutoScaleMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.AutoSizeMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.BindingCompleteContext: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.BindingCompleteEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.BindingCompleteState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.BindingManagerDataErrorEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.BindingMemberInfo: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.BindingsCollection: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.BootMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Border3DSide: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Border3DStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.BorderStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.BoundsSpecified: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ButtonBorderStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ButtonRenderer: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ButtonState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.CacheVirtualItemsEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.CaptionButton: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.CharacterCasing: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.CheckBoxRenderer: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.CheckState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Clipboard: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.CloseReason: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ColorDepth: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ColumnClickEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ImageList: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ColumnHeaderAutoResizeStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ColumnReorderedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ColumnHeaderStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ColumnWidthChangedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ColumnWidthChangingEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ComboBoxRenderer: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ComboBoxStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ImeContext: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ImeModeConversion: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ControlEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ControlPaint: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ControlStyles: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ControlUpdateMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ConvertEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.CurrencyManager: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Cursor: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Cursors: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataFormats: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridCell: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.GridColumnStylesCollection: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridLineStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridParentRowsLabelStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.GridTableStylesCollection: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.GridTablesFactory: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TextBoxBase: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewAdvancedBorderStyle: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewAdvancedCellBorderStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewAutoSizeColumnsMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewAutoSizeColumnMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewAutoSizeRowsMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewAutoSizeRowMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewBand: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellBorderStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellErrorTextNeededEventArgs: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellStyleContentChangedEventArgs: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellStyleScopes: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellToolTipTextNeededEventArgs: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellValidatingEventArgs: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewClipboardCopyMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewColumnConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewColumnDesignTimeVisibleAttribute: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewColumnSortMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewComboBoxDisplayStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewContentAlignment: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewDataErrorContexts: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewEditMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewElementStates: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewAutoSizeColumnModeEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewAutoSizeColumnsModeEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewAutoSizeModeEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewBindingCompleteEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellCancelEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellContextMenuStripNeededEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellErrorTextNeededEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellFormattingEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellMouseEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellPaintingEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellParsingEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellStateChangedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellStyleContentChangedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellToolTipTextNeededEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellValidatingEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewCellValueEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewColumnDividerDoubleClickEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewColumnEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewColumnStateChangedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewEditingControlShowingEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewDataErrorEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewRowCancelEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewRowContextMenuStripNeededEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewRowDividerDoubleClickEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewRowEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewRowErrorTextNeededEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewRowHeightInfoNeededEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewRowHeightInfoPushedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewRowPostPaintEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewRowPrePaintEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewRowsAddedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewRowsRemovedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewRowStateChangedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewSortCompareEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewHeaderBorderStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewHitTestType: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewImageCellLayout: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewPaintParts: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewRowConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewRowErrorTextNeededEventArgs: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewRowHeightInfoNeededEventArgs: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewRowHeightInfoPushedEventArgs: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewSelectedCellCollection: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewSelectedColumnCollection: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewSelectedRowCollection: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewSelectionMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataGridViewTriState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DataSourceUpdateMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DateBoldEventArgs: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DateBoldEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DateRangeEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DateTimePickerFormat: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Day: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DialogResult: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DockingAttribute: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DockingBehavior: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DockStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DragAction: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DragDropEffects: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DragEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DrawItemEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DrawItemState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DrawListViewColumnHeaderEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DrawListViewItemEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DrawListViewSubItemEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DrawMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DrawToolTipEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.DrawTreeNodeEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ErrorBlinkStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ErrorIconAlignment: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.FeatureSupport: method System.Version System.Windows.Forms.FeatureSupport.GetVersionPresent(System.Object feature) unstubbable: метод является абстрактным, для него нельзя создать заглушку, имя метода конфликтует со статическими членами.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.FileDialog: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.FixedPanel: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.FlatButtonAppearance: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ApplicableToButtonAttribute: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.FlatButtonAppearanceConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.FlatStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.FlowDirection: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.FlowLayoutSettings: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.FolderBrowserDialog: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.FormBorderStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.FormClosedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.FormClosingEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.FormStartPosition: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.FormWindowState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.FrameStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.GiveFeedbackEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.GridItemCollection: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.GridItemType: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.GroupBoxRenderer: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.GetChildAtPointSkip: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Help: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.HelpEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.HelpNavigator: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.HorizontalAlignment: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.HtmlDocument: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.HtmlElement: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.HtmlElementInsertionOrientation: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.HtmlElementCollection: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.HtmlElementErrorEventArgs: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.HtmlElementErrorEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.HtmlElementEventArgs: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.HtmlElementEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.HtmlHistory: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.HtmlWindow: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.HtmlWindowCollection: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ImageIndexConverter: method System.Object System.ComponentModel.BaseNumberConverter.FromString(System.String value, System.Int32 radix) unstubbable: метод является абстрактным, для него нельзя создать заглушку, тип сигнатуры метода невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes) or subtype(ImageIndexConverter in assembly System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ImageLayout: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ImageListConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ImageListStreamer: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ImeMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.InputLanguageChangedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.InputLanguageChangingEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.InputLanguage: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.InputLanguageCollection: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.InvalidateEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ItemActivation: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ItemBoundsPortion: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ItemChangedEventArgs: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ItemChangedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ItemCheckedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ItemCheckEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ItemDragEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.KeyEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.KeyPressEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Keys: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.InsertKeyMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.LabelEditEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.LayoutEventArgs: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.LayoutEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.LeftRightAlignment: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.LinkArea: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.LinkBehavior: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.LinkClickedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.LinkLabelLinkClickedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.LinkState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ListBindingHelper: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ListControlConvertEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ListViewSubItemConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ListViewAlignment: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ListViewGroup: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ListViewGroupCollection: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ListViewGroupConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ListViewHitTestLocations: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ListViewInsertionMark: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ListViewItemMouseHoverEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ListViewItemSelectionChangedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ListViewItemStates: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ListViewVirtualItemsSelectionRangeChangedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.MaskFormat: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.MaskInputRejectedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.MdiClient: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.MdiLayout: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.MdiWindowListItemConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.MeasureItemEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.MenuGlyph: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.MenuMerge: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.MergeAction: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Message: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.MessageBox: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.MessageBoxButtons: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.MessageBoxDefaultButton: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.MessageBoxIcon: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.MessageBoxOptions: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.MethodInvoker: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.MouseButtons: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.MouseEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.UnhandledExceptionMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.NavigateEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.NodeLabelEditEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.NoneExcludedImageIndexConverter: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.NotifyIcon: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.OpenFileDialog: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Orientation: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.OSFeature: method System.Version System.Windows.Forms.FeatureSupport.GetVersionPresent(System.Object feature) unstubbable: метод является абстрактным, для него нельзя создать заглушку, имя метода конфликтует со статическими членами.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Padding: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.PaintEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.PictureBoxSizeMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.PopupEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.PowerLineStatus: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.BatteryChargeStatus: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.PowerState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.PowerStatus: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.PreProcessControlState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.PreviewKeyDownEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ProfessionalColors: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ProgressBarRenderer: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ProgressBarStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.PropertySort: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.PropertyTabChangedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.PropertyValueChangedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.QueryAccessibilityHelpEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.QueryContinueDragEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.QuestionEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.RadioButtonRenderer: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.RelatedImageListAttribute: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ContentsResizedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.RetrieveVirtualItemEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.RichTextBoxFinds: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.RichTextBoxLanguageOptions: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.RichTextBoxScrollBars: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.RichTextBoxSelectionAttribute: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.RichTextBoxSelectionTypes: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.RichTextBoxStreamType: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.RichTextBoxWordPunctuations: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.RightToLeft: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SaveFileDialog: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Screen: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ScreenOrientation: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ScrollBarRenderer: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ScrollBars: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ScrollButton: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ScrollEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ScrollEventType: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ScrollOrientation: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SearchDirectionHint: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SearchForVirtualItemEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SecurityIDType: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SelectedGridItemChangedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SelectionMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SelectionRange: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SendKeys: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Shortcut: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SizeGripStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SortOrder: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SpecialFolderEnumConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SplitterCancelEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SplitterEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SplitterPanel: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.StatusBarDrawItemEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.StatusBarPanelAutoSize: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.StatusBarPanelBorderStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.StatusBarPanelClickEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.StatusBarPanelStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.StructFormat: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SystemInformation: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SystemParameter: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TabAlignment: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TabAppearance: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TabControlAction: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TabControlCancelEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TabControlEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TabDrawMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TableLayoutPanelCellBorderStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TableLayoutPanelCellPosition: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TableLayoutPanelCellPositionTypeConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TableLayoutPanelGrowStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TableLayoutSettings: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SizeType: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TableLayoutStyleCollection: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TableLayoutCellPaintEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TableLayoutColumnStyleCollection: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TableLayoutRowStyleCollection: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TabRenderer: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TabSizeMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TextBoxAutoCompleteSourceConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TextBoxRenderer: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TextDataFormat: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TextImageRelation: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TickStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolBarAppearance: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolBarButtonClickEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolBarButtonStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolBarTextAlign: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripArrowRenderEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripDropDownCloseReason: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripDropDownClosedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripDropDownClosingEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripDropDownDirection: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripGripDisplayStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripGripRenderEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripGripStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripItemAlignment: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripItemClickedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripItemDisplayStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripItemEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripItemImageRenderEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripItemImageScaling: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripItemOverflow: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripItemPlacement: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripItemRenderEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripItemTextRenderEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripLayoutStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripManager: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripManagerRenderMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripOverflowButton: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripPanelRenderEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripContentPanelRenderEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripRenderEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripRenderMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripSeparatorRenderEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripStatusLabelBorderSides: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolStripTextDirection: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ToolTipIcon: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TrackBarRenderer: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TreeNodeMouseClickEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TreeNodeCollection: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TreeNodeMouseHoverEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TreeNodeStates: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TreeViewAction: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TreeViewCancelEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TreeViewDrawMode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TreeViewEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TreeViewHitTestLocations: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TreeViewImageIndexConverter: method System.Object System.ComponentModel.BaseNumberConverter.FromString(System.String value, System.Int32 radix) unstubbable: метод является абстрактным, для него нельзя создать заглушку, тип сигнатуры метода невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes) or subtype(TreeViewImageIndexConverter in assembly System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TypeValidationEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.UICues: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.UICuesEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.UpDownEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.ValidationConstraints: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.View: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.WebBrowserBase: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.WebBrowserSiteBase: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.WebBrowserEncryptionLevel: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.WebBrowserReadyState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.WebBrowserRefreshOption: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.WebBrowserDocumentCompletedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.WebBrowserNavigatedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.WebBrowserNavigatingEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.WebBrowserProgressChangedEventHandler: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.WebBrowserUriTypeConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.WinCategoryAttribute: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.WindowsFormsSection: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.WindowsFormsSynchronizationContext: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Design.ToolStripItemDesignerAvailability: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.Design.ToolStripItemDesignerAvailabilityAttribute: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.PageSetupDialog: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.PrintDialog: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.VisualStyleElement: тип не содержит видимые для семейства конструкторы.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.VisualStyleInformation: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.VisualStyleRenderer: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.VisualStyleState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.ComboBoxState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.CheckBoxState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.GroupBoxState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.PushButtonState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.RadioButtonState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.ScrollBarArrowButtonState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.ScrollBarState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.ScrollBarSizeBoxState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.TabItemState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.TextBoxState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.ToolBarState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.TrackBarThumbState: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.BackgroundType: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.BorderType: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.ImageOrientation: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.SizingType: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.FillType: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.HorizontalAlign: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.ContentAlignment: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.VerticalAlignment: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.OffsetType: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.IconEffect: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.TextShadowType: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.GlyphType: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.ImageSelectType: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.TrueSizeScalingType: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.GlyphFontSizingType: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.ColorProperty: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.EnumProperty: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.FilenameProperty: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.FontProperty: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.IntegerProperty: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.PointProperty: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.MarginProperty: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.StringProperty: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.BooleanProperty: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.Edges: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.EdgeStyle: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.EdgeEffects: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.TextMetrics: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.TextMetricsPitchAndFamilyValues: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.TextMetricsCharacterSet: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.HitTestOptions: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.HitTestCode: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.VisualStyles.ThemeSizeType: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TextFormatFlags: тип является типом значения.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.TextRenderer: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SRDescriptionAttribute: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для System.Windows.Forms.SRCategoryAttribute: тип является запечатанным.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать заглушку для <PrivateImplementationDetails>{6977DDE0-DA93-4F2B-8941-60353E9B3DFE}: тип не поддерживается из-за внутренних ограничений.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.AccessibleEvents: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.AccessibleNavigation: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.AccessibleRole: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.AccessibleSelection: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.AccessibleStates: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.AlphaSortedEnumConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.AnchorStyles: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.Appearance: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.Application+MessageLoopCallback: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.IDropTarget: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.IWin32Window: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.Layout.IArrangedElement: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.IBindableComponent: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.Control+ActiveXFontMarshaler: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.IWindowTarget: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.IContainerControl: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ArrowDirection: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ArrangeDirection: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ArrangeStartingPosition: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.AutoCompleteMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.AutoCompleteSource: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.AutoValidate: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.AutoScaleMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.AutoSizeMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.AxHost+AboutBoxDelegate: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.AxHost+ActiveXInvokeKind: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.BindingCompleteContext: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.BindingCompleteEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.BindingCompleteState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.BindingManagerDataErrorEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.IMessageFilter: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ICurrencyManagerProvider: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.BootMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.Border3DSide: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.Border3DStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.BorderStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.BoundsSpecified: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.IButtonControl: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ButtonBorderStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ButtonState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.CacheVirtualItemsEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.CaptionButton: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.CharacterCasing: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.CheckState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.CloseReason: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ColorDepth: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ColumnClickEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ColumnHeaderAutoResizeStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ColumnReorderedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ColumnHeaderStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ColumnWidthChangedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ColumnWidthChangingEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ComboBoxStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ControlEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ControlStyles: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ControlUpdateMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ConvertEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.IDataGridEditingService: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGrid+HitTestType: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.IDataGridColumnStyleEditingNotificationService: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridColumnStyle+CompModSwitches: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridColumnStyle+DataGridColumnHeaderAccessibleObject: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridLineStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridParentRowsLabelStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridView+DataGridViewAccessibleObject: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridView+DataGridViewTopRowAccessibleObject: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewAdvancedCellBorderStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewAutoSizeColumnsMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewAutoSizeColumnMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewAutoSizeRowsMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewAutoSizeRowMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewCell+DataGridViewCellAccessibleObject: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewButtonCell+DataGridViewButtonCellAccessibleObject: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewCellBorderStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewCellConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewCellStyleScopes: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.IDataGridViewEditingCell: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewCheckBoxCell+DataGridViewCheckBoxCellAccessibleObject: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewClipboardCopyMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewColumnConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewColumnHeaderCell+DataGridViewColumnHeaderCellAccessibleObject: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewColumnSortMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewComboBoxDisplayStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.IDataGridViewEditingControl: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewContentAlignment: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewDataErrorContexts: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewEditMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewElementStates: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewAutoSizeColumnModeEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewAutoSizeColumnsModeEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewAutoSizeModeEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewBindingCompleteEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewCellCancelEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewCellContextMenuStripNeededEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewCellErrorTextNeededEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewCellEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewCellFormattingEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewCellMouseEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewCellPaintingEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewCellParsingEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewCellStateChangedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewCellStyleContentChangedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewCellToolTipTextNeededEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewCellValidatingEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewCellValueEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewColumnDividerDoubleClickEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewColumnEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewColumnStateChangedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewEditingControlShowingEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewDataErrorEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewRowCancelEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewRowContextMenuStripNeededEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewRowDividerDoubleClickEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewRowEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewRowErrorTextNeededEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewRowHeightInfoNeededEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewRowHeightInfoPushedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewRowPostPaintEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewRowPrePaintEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewRowsAddedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewRowsRemovedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewRowStateChangedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewSortCompareEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewHeaderBorderStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewHitTestType: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewImageCell+DataGridViewImageCellAccessibleObject: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewImageCellLayout: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewLinkCell+DataGridViewLinkCellAccessibleObject: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewPaintParts: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewRow+DataGridViewRowAccessibleObject: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewRowConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewRowHeaderCell+DataGridViewRowHeaderCellAccessibleObject: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewSelectionMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewTopLeftHeaderCell+DataGridViewTopLeftHeaderCellAccessibleObject: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataGridViewTriState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.IDataObject: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DataSourceUpdateMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DateBoldEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DateRangeEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DateTimePickerFormat: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.Day: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DialogResult: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DockingBehavior: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DockStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DragAction: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DragDropEffects: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DragEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DrawItemEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DrawItemState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DrawListViewColumnHeaderEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DrawListViewItemEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DrawListViewSubItemEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DrawMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DrawToolTipEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.DrawTreeNodeEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ErrorBlinkStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ErrorIconAlignment: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.IFeatureSupport: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.FixedPanel: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ApplicableToButtonAttribute: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.FlatButtonAppearanceConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.FlatStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.FlowDirection: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.FormBorderStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.FormClosedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.FormClosingEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.FormStartPosition: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.FormWindowState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.FrameStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.GiveFeedbackEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.GridItemType: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.GetChildAtPointSkip: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.HelpEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.HelpNavigator: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.HorizontalAlignment: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.HtmlElementInsertionOrientation: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.HtmlElementErrorEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.HtmlElementEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ICommandExecutor: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.IFileReaderService: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ImageLayout: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ImageListConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ImeMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.InputLanguageChangedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.InputLanguageChangingEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.InvalidateEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ItemActivation: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ItemBoundsPortion: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ItemChangedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ItemCheckedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ItemCheckEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ItemDragEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.KeyEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.KeyPressEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.Keys: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.InsertKeyMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.LabelEditEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.LayoutEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.LeftRightAlignment: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.LinkBehavior: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.LinkClickedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.LinkLabelLinkClickedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.LinkState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ListControlConvertEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ListViewSubItemConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ListViewAlignment: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ListViewGroupConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ListViewHitTestLocations: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ListViewItemMouseHoverEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ListViewItemSelectionChangedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ListViewItemStates: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ListViewVirtualItemsSelectionRangeChangedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.MaskFormat: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.MaskInputRejectedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.MdiLayout: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.MdiWindowListItemConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.MeasureItemEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.MenuGlyph: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.MenuMerge: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.MergeAction: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.MessageBoxButtons: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.MessageBoxDefaultButton: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.MessageBoxIcon: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.MessageBoxOptions: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.MethodInvoker: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.MonthCalendar+HitArea: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.MouseButtons: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.MouseEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.UnhandledExceptionMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.NavigateEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.NodeLabelEditEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.NoneExcludedImageIndexConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.Orientation: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.PaintEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.PictureBoxSizeMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.PopupEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.PowerLineStatus: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.BatteryChargeStatus: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.PowerState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.PreProcessControlState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.PreviewKeyDownEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ProgressBarStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ComponentModel.Com2Interop.IComPropertyBrowser: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.PropertyGrid+SelectedObjectConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.PropertySort: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.PropertyTabChangedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.PropertyValueChangedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.QueryAccessibilityHelpEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.QueryContinueDragEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.QuestionEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ContentsResizedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.RetrieveVirtualItemEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.RichTextBoxFinds: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.RichTextBoxLanguageOptions: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.RichTextBoxScrollBars: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.RichTextBoxSelectionAttribute: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.RichTextBoxSelectionTypes: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.RichTextBoxStreamType: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.RichTextBoxWordPunctuations: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.RightToLeft: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ScreenOrientation: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ScrollBars: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ScrollButton: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ScrollEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ScrollEventType: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ScrollOrientation: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.SearchDirectionHint: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.SearchForVirtualItemEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.SecurityIDType: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.SelectedGridItemChangedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.SelectionMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.Shortcut: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.SizeGripStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.SortOrder: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.SpecialFolderEnumConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.SplitterCancelEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.SplitterEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.StatusBarDrawItemEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.StatusBarPanelAutoSize: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.StatusBarPanelBorderStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.StatusBarPanelClickEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.StatusBarPanelStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.StructFormat: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.SystemParameter: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TabAlignment: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TabAppearance: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TabControlAction: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TabControlCancelEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TabControlEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TabDrawMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TableLayoutPanelCellBorderStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TableLayoutPanelCellPositionTypeConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TableLayoutPanelGrowStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TableLayoutSettings+StyleConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.SizeType: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TableLayoutCellPaintEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TabSizeMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TextBoxAutoCompleteSourceConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TextDataFormat: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TextImageRelation: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TickStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolBarAppearance: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolBarButtonClickEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolBarButtonStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolBarTextAlign: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripArrowRenderEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripDropDownCloseReason: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripDropDownClosedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripDropDownClosingEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripDropDownDirection: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripGripDisplayStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripGripRenderEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripGripStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripItemAlignment: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripItemClickedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripItemDisplayStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripItemEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripItemImageRenderEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripItemImageScaling: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripItemOverflow: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripItemPlacement: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripItemRenderEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripItemTextRenderEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripLayoutStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripManagerRenderMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripPanelRenderEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripContentPanelRenderEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripRenderEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripRenderMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripSeparatorRenderEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripStatusLabelBorderSides: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolStripTextDirection: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ToolTipIcon: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TreeNodeMouseClickEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TreeNodeMouseHoverEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TreeNodeStates: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TreeViewAction: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TreeViewCancelEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TreeViewDrawMode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TreeViewEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TreeViewHitTestLocations: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TypeValidationEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.UICues: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.UICuesEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.UpDownEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ValidationConstraints: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.View: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.WebBrowser+WebBrowserSite: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.WebBrowserEncryptionLevel: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.WebBrowserReadyState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.WebBrowserRefreshOption: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.WebBrowserDocumentCompletedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.WebBrowserNavigatedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.WebBrowserNavigatingEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.WebBrowserProgressChangedEventHandler: тип является делегатом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.WebBrowserUriTypeConverter: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.WinCategoryAttribute: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.IComponentEditorPageSite: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.ComponentModel.Com2Interop.ICom2PropertyPageDisplayService: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.Design.IUIService: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.Design.IWindowsFormsEditorService: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.Design.ToolStripItemDesignerAvailability: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.PropertyGridInternal.IRootGridEntry: тип является интерфейсом.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.VisualStyleState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.ComboBoxState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.CheckBoxState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.GroupBoxState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.PushButtonState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.RadioButtonState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.ScrollBarArrowButtonState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.ScrollBarState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.ScrollBarSizeBoxState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.TabItemState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.TextBoxState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.ToolBarState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.TrackBarThumbState: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.BackgroundType: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.BorderType: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.ImageOrientation: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.SizingType: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.FillType: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.HorizontalAlign: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.ContentAlignment: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.VerticalAlignment: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.OffsetType: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.IconEffect: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.TextShadowType: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.GlyphType: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.ImageSelectType: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.TrueSizeScalingType: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.GlyphFontSizingType: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.ColorProperty: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.EnumProperty: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.FilenameProperty: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.FontProperty: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.IntegerProperty: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.PointProperty: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.MarginProperty: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.StringProperty: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.BooleanProperty: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.Edges: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.EdgeStyle: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.EdgeEffects: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.TextMetricsPitchAndFamilyValues: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.TextMetricsCharacterSet: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.HitTestOptions: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.HitTestCode: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.VisualStyles.ThemeSizeType: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.TextFormatFlags: тип является перечислением.
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.SRDescriptionAttribute: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для System.Windows.Forms.SRCategoryAttribute: тип невидим для exported or assembly(System.Windows.Forms.4.0.0.0.Fakes).
+F:\Encryptor\WpfApp1\Fakes\System.Windows.Forms.fakes : warning : Невозможно создать оболочку совместимости для <PrivateImplementationDetails>{6977DDE0-DA93-4F2B-8941-60353E9B3DFE}: тип не поддерживается из-за внутренних ограничений.
